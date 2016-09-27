@@ -1,1 +1,1 @@
-PL-angularjs-line-of-business-application
+angularjs-line-of-business-application
